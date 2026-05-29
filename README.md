@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rafimuna/rafimuna/blob/main/rafimuna_banner" width="100%" />
+  <img src="https://github.com/rafimuna/rafimuna/blob/main/rafimuna_banner.png" width="100%" />
 </p>
 # 👋 Hi, I'm Raiful Islam
 
