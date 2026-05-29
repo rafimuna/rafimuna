@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/rafimuna/rafimuna/blob/main/rafimuna_banner" width="100%" />
+</p>
 # 👋 Hi, I'm Raiful Islam
 
 I am a passionate Full Stack Developer and AI/ML enthusiast focused on building modern, scalable, and user-friendly web applications. I enjoy creating clean frontend interfaces with Vue.js, Quasar Framework, and modern UI/UX principles while developing powerful backend systems using Django and Django REST Framework.
